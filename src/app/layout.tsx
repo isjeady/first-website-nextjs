@@ -3,13 +3,14 @@ import "./globals.css"
 import { Inter as FontSans } from "next/font/google"
 import { Button } from "@/components/ui/button"
 import Link from "next/link"
+import { PropsWithChildren } from "react"
 
 export const fontSans = FontSans({
   subsets: ["latin"],
   variable: "--font-sans",
 })
 
-export default function RootLayout({ children }: RootLayoutProps) {
+export default function RootLayout({ children }: PropsWithChildren) {
   return (
     <html lang="en" suppressHydrationWarning>
       <head />
