@@ -23,7 +23,7 @@ export default function RootLayout({ children }: PropsWithChildren) {
         <ul className="flex gap-4 border-b border-gray-400 p-4">
           <li>
             <Link href="/">
-              Homepage
+              Homepage Title
               </Link>
           </li>
           <li>
