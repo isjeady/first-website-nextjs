@@ -1,3 +1,6 @@
+[Link all'articolo completo e Video](https://rebrand.ly/article_mdgb7oj)
+
+----
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
